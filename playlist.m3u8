@@ -15,3 +15,5 @@ http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 #EXTINF:7,3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:8,CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
