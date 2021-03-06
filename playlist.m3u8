@@ -11,3 +11,5 @@ https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
 #EXTINF:5,OE24 TV
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:6,Welt
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
