@@ -19,3 +19,21 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:9,P3
 http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
+#EXTINF:10,Okto
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:11,M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:12,DorfTV
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:13,Anixa
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:14,Comedy Central
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:15,MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+#EXTINF:16,HR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:17,BR
+https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/master.m3u8
+#EXTINF:18,NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
