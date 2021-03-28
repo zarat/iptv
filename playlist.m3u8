@@ -39,3 +39,5 @@ https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/master.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
 #EXTINF:19,WDR
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+#EXTINF:20,CGTN Documentary
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
